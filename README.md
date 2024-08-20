@@ -19,4 +19,5 @@
 | [chumajin](https://www.kaggle.com/chumajin)        | [chumajin](https://x.com/ChuMajin)         | [Kaggle Competition Grandmasterになるまでを振り返る](https://zenn.dev/chumajin/articles/grandmaster-article1)                         |
 | [YumeNeko](https://www.kaggle.com/kashiwaba)       | [ゆめねこ](https://x.com/yume_neko92)          | [Kaggle Grandmaster振り返り](https://zenn.dev/yume_neko/articles/314ab559048aa8)                                                |
 | [penguin46](https://www.kaggle.com/ryotayoshinobu) | [penguin46](https://x.com/ryota_cpp)       | [Kaggle Grandmasterになるまでを振り返ってみる](https://penguin46.hatenablog.com/entry/2024/07/28/150155)                                 |
+| [currypurin](https://www.kaggle.com/currypurin) | [カレーちゃん](https://x.com/currypurin)         | [Kaggleグランドマスターになったので、今後やりたいことを考える](https://note.com/currypurin/n/n722cd306f7ad)                                            |
 
