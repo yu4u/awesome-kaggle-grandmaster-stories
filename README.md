@@ -21,4 +21,6 @@
 | [penguin46](https://www.kaggle.com/ryotayoshinobu) | [penguin46](https://x.com/ryota_cpp)       | [Kaggle Grandmasterになるまでを振り返ってみる](https://penguin46.hatenablog.com/entry/2024/07/28/150155)                                 |
 | [currypurin](https://www.kaggle.com/currypurin) | [カレーちゃん](https://x.com/currypurin)         | [Kaggleグランドマスターになったので、今後やりたいことを考える](https://note.com/currypurin/n/n722cd306f7ad)                                            |
 | [K_mat](https://www.kaggle.com/kmat2019) | [K_mat](https://x.com/Kmat67916008)                                  | [カグルとワタシ ~ kaggle GM振り返りポエム ~](https://qiita.com/Kmat67916008/items/631838d128e538f16119)                                            |
+| [kaerururu](https://www.kaggle.com/kaerunantoka) | [かえるるる](https://x.com/kaeru_nantoka) | [Kaggle Competitions Grandmaster になるまでの 6年半を振り返る](https://kaeru-nantoka.hatenablog.com/entry/2024/12/20/161203)|
+| [kami](https://www.kaggle.com/kami634) | [kami](https://x.com/634kami) | [Kaggle Grandmasterになったので取り組み方や今までを振り返る(kami編)](https://zenn.dev/dena/articles/f2c90e00ffbc26)|
 
